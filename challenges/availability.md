@@ -21,19 +21,16 @@ http://challenge.smove.sg/availability?startTime=[startTime]&endTime=[endTime]
 [
 	{
 		id: 42,
-		latitude: 1.352,
-		longitude: 103.819,
+		location: [1.352, 103.819],
 		available_cars: 3,
 		dropoff_locations: [
 			{ 
 				id: 42,
-				latitude: 1.352,
-				longitude: 103.819
+				location: [1.352, 103.819]
 			},
 			{ 
 				id: 51,
-				latitude: 1.331,
-				longitude: 103.721
+				location: [1.331, 103.721]
 			},
 			. . .
 		]
