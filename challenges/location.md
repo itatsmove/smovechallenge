@@ -12,19 +12,21 @@ https://challenge.smove.sg/locations
 
 ### Example Response
 ```
-[
-	{
-		id: 9,
-		latitude: 1.352,
-		longitude: 103.819,
-		is_on_trip: 0
-	},
-	{
-		id: 12,
-		latitude: 1.332,
-		longitude: 103.821,
-		is_on_trip: 1
-	},
-	. . .
-]
+{
+	"data": [
+				{
+					id: 9,
+					latitude: 1.352,
+					longitude: 103.819,
+					is_on_trip: 0
+				},
+				{
+					id: 12,
+					latitude: 1.332,
+					longitude: 103.821,
+					is_on_trip: 1
+				},
+				. . .
+		]
+}
 ```
