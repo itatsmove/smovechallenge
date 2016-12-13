@@ -7,12 +7,12 @@ We've prepared a few resources that you can use in any way you'd like. Some of t
 You're welcome to try as many challenges as you'd like, and implement your solution using any language/framework/library you desire. Some languages and frameworks we typically use at smove are Javascript, Python, AngularJS, React, and Sails.js, so if you can use those that's a bonus!
 
 ### Challenges
-* [Booking Availability API](challenges/availability.md)
-* [Car Location API](challenges/location.md)
-* [Booking Data](challenges/bookingdata.md)
-* [Booking Validation Problem](challenges/bookingvalidation.md)
+1. [Booking Availability API](challenges/availability.md)
+2. [Car Location API](challenges/location.md)
+3. [Booking Data](challenges/bookingdata.md)
+4. [Booking Validation Problem](challenges/bookingvalidation.md)
 
-**When you're done, [Email us](mailto:hr@smove.sg) with either a link to your repo or zipped solution, including your source code and any generated output (e.g. visualisations, reports, etc.)**
+**When you're done, [Email us](mailto:hr@smove.sg) with either a link to your repo or zipped solution, including your source code, any generated output (e.g. visualisations, reports, etc.), and a short explanation of what you've done.**
 
 Cheers,
 

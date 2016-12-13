@@ -7,7 +7,7 @@ Use the endpoint to build whatever you'd like, be it a simple front end to make 
 
 ### Endpoint
 ```
-http://challenge.smove.sg/availability?startTime=[startTime]&endTime=[endTime]
+https://challenge.smove.sg/availability?startTime=[startTime]&endTime=[endTime]
 ```
 
 ### Request Parameters
