@@ -7,7 +7,7 @@ Use the endpoint to build whatever you'd like, be it some real time visualisatio
 
 ### Endpoint
 ```
-https://challenge.smove.sg/locations
+GET https://challenge.smove.sg/locations
 ```
 
 ### Example Response
