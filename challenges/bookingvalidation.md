@@ -6,6 +6,8 @@ You are given a set of data representing a sequence of bookings on a single car.
 For example,
 
 ```
+using the format [start_location     end_location],
+
    b1        b2
 [a     b] [c     d] = relocation required (b ≠ c)
 
