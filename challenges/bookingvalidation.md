@@ -16,7 +16,7 @@ using the format [start_location     end_location],
 ```
 
 
-Your task is to design and implement an algorithm that takes a sequence of bookings as input, and returns a permutation that minimises the total number of relocations within the sequence. For example, given
+Your task is to design and implement an algorithm that takes a sequence of bookings as input, and outputs a _single_ permutation of the input that minimises the total number of relocations within the sequence. For example, given
 
 ```
    b1         b2        b3        b4
@@ -30,9 +30,11 @@ you could return
 [y     z] [z     x] [x     y] [y     z] = 0 relocations required
 ```
 
-The output sequence must contain the same set of bookings as the input (that is, you can't add or remove any bookings). You cannot change the start or end locations of any bookings. Note that it might not be possible to find a reordered sequence with 0 relocations. Your job is simply to minimise the number as much as possible.
+If you find multiple sequences with the same number of relocations, you can return any of them - it does not matter which. It is the 'score', i.e. the number of relocations, that matters.
 
-Feel free to use any language/framework you'd like, but make sure it's easy for us to build! 
+The output sequence must contain the same set of bookings as the input (that is, you can't add or remove any bookings), and you cannot change the start or end locations of any bookings. Note that it might not be possible to find a reordered sequence with 0 relocations. Your job is simply to minimise the number as much as possible. 
+
+Feel free to use any language/framework/library you'd like, but make sure it's easy for us to build and run! 
 
 **When you're done, [Email us](mailto:hr@smove.sg) with either a link to your repo or your zipped solution, including both your source code and your generated output for the given test case.**
 
