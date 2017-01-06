@@ -1,4 +1,4 @@
-# Booking Validation Problem
+# Booking Ordering Problem
 Unlike the other challenges, this one requires you to programmatically solve a specific problem. 
 
 You are given a set of data representing a sequence of bookings on a single car. Each booking consists of a start location and an end location. Given two adjacent bookings *b1* and *b2*, we say a *relocation* is required between those bookings if the end location of *b1* ≠ the start location of *b2*.
@@ -57,4 +57,4 @@ A JSON file consisting of an array of booking IDs of the reordered sequence. E.g
 ```
 
 ### File
-[bookingvalidation.json](bookingvalidation.json)
+[bookingordering.json](bookingordering.json)

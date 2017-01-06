@@ -10,7 +10,7 @@ You're welcome to try as many challenges as you'd like, and implement your solut
 1. [Booking Availability API](challenges/availability.md)
 2. [Car Location API](challenges/location.md)
 3. [Booking Data](challenges/bookingdata.md)
-4. [Booking Validation Problem](challenges/bookingvalidation.md)
+4. [Booking Ordering Problem](challenges/bookingordering.md)
 
 **When you're done, [Email us](mailto:hr@smove.sg) with either a link to your repo or zipped solution, including your source code, any generated output (e.g. visualisations, reports, etc.), and a short explanation of what you've done.**
 
