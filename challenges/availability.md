@@ -7,7 +7,7 @@ Use the endpoint to build whatever you'd like, be it a simple front end to make 
 
 ### Endpoint
 ```
-https://challenge.smove.sg/availability?startTime=[startTime]&endTime=[endTime]
+GET https://challenge.smove.sg/availability?startTime=[startTime]&endTime=[endTime]
 ```
 
 ### Request Parameters
@@ -18,23 +18,25 @@ https://challenge.smove.sg/availability?startTime=[startTime]&endTime=[endTime]
 
 ### Example Response
 ```
-[
-	{
-		id: 42,
-		location: [1.352, 103.819],
-		available_cars: 3,
-		dropoff_locations: [
-			{ 
+{
+	data: [
+			{
 				id: 42,
-				location: [1.352, 103.819]
-			},
-			{ 
-				id: 51,
-				location: [1.331, 103.721]
+				location: [1.352, 103.819],
+				available_cars: 3,
+				dropoff_locations: [
+					{ 
+						id: 42,
+						location: [1.352, 103.819]
+					},
+					{ 
+						id: 51,
+						location: [1.331, 103.721]
+					},
+					. . .
+				]
 			},
 			. . .
-		]
-	},
-	. . .
-]
+	]
+}
 ```
