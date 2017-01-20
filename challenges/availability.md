@@ -13,8 +13,8 @@ GET https://challenge.smove.sg/availability?startTime=[startTime]&endTime=[endTi
 ### Request Parameters
 | Field        | Type         | Description  |
 | ------------- |-------------| -----|
-| startTime      | Number | The desired start time of the booking, as a unix timestamp |
-| endTime      | Number | The desired end time of the booking, as a unix timestamp |
+| [startTime]      | Number | The desired start time of the booking, as a unix timestamp |
+| [endTime]      | Number | The desired end time of the booking, as a unix timestamp |
 
 ### Example Response
 ```
