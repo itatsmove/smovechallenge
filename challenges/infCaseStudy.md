@@ -18,7 +18,6 @@ The readings are stored as json. An example reading is as follows:
     "pres": 1010
   }
 }
-
 ```
 
 The sensors are connected to the internet via 3G/4G capable SIM cards.
