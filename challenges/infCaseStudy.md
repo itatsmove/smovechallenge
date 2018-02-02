@@ -38,7 +38,7 @@ The readings processed by the backend are stored in a database. You can assume t
 
 Your task is to design a simple infrastructure in which the readings taken by the sensors are made available for the code to process and store in the database.
 
-The readings should be sent and processed in real time (i.e. when they are generated, every 5/15 seconds).
+The readings should be sent and processed in _soft_ real time (i.e. when they are generated, every 5/15 seconds).
 
 Assume that the number of sensors is variable, and could scale up to a maximum of 5000.
 
