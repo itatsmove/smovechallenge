@@ -6,7 +6,7 @@ SomeCompany® has developed sensors capable of taking readings of the environmen
 
 During the day (from 07:00 to 19:00), the sensors take readings every 5 seconds. During the evening (from 19:00 to 07:00), the sensors take readings every 15 seconds.
 
-The readings are stored as json. An example reading is as follows:
+The readings are stored as JSON. An example reading is as follows:
 
 ```
 {
@@ -47,7 +47,7 @@ Your solution should take into account:
 * How the backend is hosted
 * What type of database is used and how it is hosted
 
-The infrastructure should predominantly use services available from AWS.
+The infrastructure should predominantly use services available from AWS (but non AWS services are also acceptable).
 
 You may describe the proposed infrastructure using text, diagrams, a presentation, configuration scripts, or any other medium you'd like!
 
