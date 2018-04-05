@@ -14,14 +14,14 @@ We've prepared a few resources that you can use in any way you'd like. Some of t
 3. [Booking Data](challenges/bookingdata.md)
 4. [Booking Ordering Problem](challenges/bookingordering.md)
 
-**When you're done, [email us](mailto:jamesw@smove.sg) with either a link to your repo or zipped solution, including your source code, any generated output (e.g. visualisations, reports, etc.), and a short explanation of what you've done.**
+**When you're done, [email us](mailto:hr@smove.sg) with either a link to your repo or zipped solution, including your source code, any generated output (e.g. visualisations, reports, etc.), and a short explanation of what you've done.**
 
 ## DevOps / Infrastructure Engineer Challenges
 
 ### Challenges
 1. [Infrastructure Case Study](challenges/infCaseStudy.md)
 
-**When you're done, [email us](mailto:jamesw@smove.sg) with either a link to your repo or zipped solution, including your source code, any generated output (e.g. visualisations, reports, etc.), and a short explanation of what you've done.**
+**When you're done, [email us](mailto:hr@smove.sg) with either a link to your repo or zipped solution, including your source code, any generated output (e.g. visualisations, reports, etc.), and a short explanation of what you've done.**
 
 Cheers,
 
