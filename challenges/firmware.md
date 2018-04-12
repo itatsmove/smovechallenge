@@ -14,11 +14,11 @@ Your tasks are to:
 | Condition                | Terminal to Pi | Pi responses to terminal                                                                                                 |
 |--------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------|
 | Python script is started |                | ^RESET                                                                                                                   |
-|                          | AT+RLYON=1     | ^OK Then set command Arduino to turn on Relay 1                                                                          |
-|                          | AT+RLYON=2     | ^OK Then set command Arduino to turn on Relay 2                                                                          |
-|                          | AT+RLYOFF=1    | ^OK Then set command Arduino to turn off Relay 1                                                                         |
-|                          | AT+RLYOFF=1    | ^OK Then set command Arduino to turn off Relay 2                                                                         |
-|                          | AT+SENS=?      | ^OK [last fuel sensor read value (unit of 0.01V)]  for example: if sensor ADC value is 2.5V the Pi will respond: ^OK 250 |
+|                          | AT+RLYON=1     | ^OK<br />Then set command Arduino to turn on Relay 1                                                                          |
+|                          | AT+RLYON=2     | ^OK<br />Then set command Arduino to turn on Relay 2                                                                          |
+|                          | AT+RLYOFF=1    | ^OK<br />Then set command Arduino to turn off Relay 1                                                                         |
+|                          | AT+RLYOFF=1    | ^OK<br />Then set command Arduino to turn off Relay 2                                                                         |
+|                          | AT+SENS=?      | ^OK<br /><last fuel sensor read value (unit of 0.01V)><br /><br />for example: if sensor ADC value is 2.5V the Pi will respond: <br />^OK<br />250 |
 
 All command and response will be followed by <CR><LF> characters. The Pi script also periodically (1 second) check for fuel sensor.
 
