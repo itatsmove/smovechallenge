@@ -20,7 +20,7 @@ Your tasks are to:
 |                          | AT+RLYOFF=1    | ^OK<br />Then set command Arduino to turn off Relay 2                                                                         |
 |                          | AT+SENS=?      | ^OK<br /><last fuel sensor read value (unit of 0.01V)><br /><br />for example: if sensor ADC value is 2.5V the Pi will respond: <br />^OK<br />250 |
 
-All command and response will be followed by <CR><LF> characters. The Pi script also periodically (1 second) check for fuel sensor.
+All command and response will be followed by `<CR><LF>` characters. The Pi script also periodically (1 second) check for fuel sensor.
 
 
 
