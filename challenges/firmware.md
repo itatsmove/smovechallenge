@@ -25,7 +25,7 @@ All command and response will be followed by `<CR><LF>` characters. The Pi scrip
 
 
 2. Write an Arduino script for the Arduino to:
-  a. Receive I2C commands from the Pi to turn on/off the two relays and response fuel sensor read value to the Pi
-  b. The Arduino’s pin 7 is to control power input to the Pi. The Arduino will reset the Pi if there is no I2C communication in 10 seconds
+  * Receive I2C commands from the Pi to turn on/off the two relays and response fuel sensor read value to the Pi
+  * The Arduino’s pin 7 is to control power input to the Pi. The Arduino will reset the Pi if there is no I2C communication in 10 seconds
 
 Note: you can design your own I2C message exchange between the Pi and Arduino, you can use any open-source library to support your scripts and please indicate libraries’ names in your scripts or a readme.
