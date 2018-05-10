@@ -29,6 +29,8 @@ We've prepared a few resources that you can use in any way you'd like. Some of t
 1. [Hardware Challenge](challenges/hardware.md)
 2. [Firmware Challenge](challenges/firmware.md)
 
+_Note that these challenges are not a part of our complicated hardware solution. Their purpose is to check some basic relevant skills, and we will not use your result for any other purpose._
+
 **When you're done, [email us](mailto:hr@smove.sg) with either a link to your repo or zipped solution, including your source code, any generated output (e.g. visualisations, reports, etc.), and a short explanation of what you've done.**
 
 Cheers,
