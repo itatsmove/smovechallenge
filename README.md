@@ -21,7 +21,7 @@ We've prepared a few resources that you can use in any way you'd like. Some of t
 ### Challenges
 1. [Infrastructure Case Study](challenges/infCaseStudy.md)
 
-**When you're done, [email us](mailto:hr@smove.sg) with either a link to your repo or zipped solution, including your source code, any generated output (e.g. visualisations, reports, etc.), and a short explanation of what you've done.**
+**When you're done, [email us](mailto:hr@smove.sg) a PDF containing your solution with any relevant explanations, diagrams, code, etc.**
 
 ## Embedded Systems Engineer Challenges
 
