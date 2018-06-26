@@ -14,7 +14,5 @@ There are 1486 bookings, on 141 cars, using 54 locations.
 
 You can use this data in any way you'd like, such as building a platform to visualise it, performing some analysis, or even trying to optimise it to find better car/booking assignments. Feel free to use any language/framework you'd like, but make sure it's easy for us to build!
 
-**When you're done, [Email us](mailto:hr@smove.sg) with either a link to your repo or your zipped solution, including your source code and any generated output (e.g. visualisations, reports, etc.)**
-
 ### File
 [bookingdata.json](bookingdata.json)

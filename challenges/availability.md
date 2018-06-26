@@ -3,8 +3,6 @@ Here you'll find a simple endpoint that you can use to check for booking availab
 
 Use the endpoint to build whatever you'd like, be it a simple front end to make bookings, an analysis tool, or even some visualisations. Feel free to use any language/framework you'd like, but make sure it's easy for us to build!
 
-**When you're done, [Email us](mailto:hr@smove.sg) with either a link to your repo or your zipped solution, including your source code and any generated output (e.g. visualisations, reports, etc.)**
-
 ### Endpoint
 ```
 GET https://challenge.smove.sg/availability?startTime=[startTime]&endTime=[endTime]
@@ -20,23 +18,23 @@ GET https://challenge.smove.sg/availability?startTime=[startTime]&endTime=[endTi
 ```
 {
 	data: [
-			{
-				id: 42,
-				location: [1.352, 103.819],
-				available_cars: 3,
-				dropoff_locations: [
-					{ 
-						id: 42,
-						location: [1.352, 103.819]
-					},
-					{ 
-						id: 51,
-						location: [1.331, 103.721]
-					},
-					. . .
-				]
-			},
-			. . .
+		{
+			id: 42,
+			location: [1.352, 103.819],
+			available_cars: 3,
+			dropoff_locations: [
+				{
+					id: 42,
+					location: [1.352, 103.819]
+				},
+				{
+					id: 51,
+					location: [1.331, 103.721]
+				},
+				. . .
+			]
+		},
+		. . .
 	]
 }
 ```
