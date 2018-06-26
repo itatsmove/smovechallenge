@@ -1,5 +1,5 @@
 # Booking Ordering Problem
-Unlike the other challenges, this one requires you to programmatically solve a specific problem. 
+Unlike the other challenges, this one requires you to programmatically solve a specific problem.
 
 You are given a set of data representing a sequence of bookings on a single car. Each booking consists of a start location and an end location. Given two adjacent bookings *b1* and *b2*, we say a *relocation* is required between those bookings if the end location of *b1* ≠ the start location of *b2*.
 
@@ -32,11 +32,9 @@ you could return
 
 If you find multiple sequences with the same number of relocations, you can return any of them - it does not matter which. It is the 'score', i.e. the number of relocations, that matters.
 
-The output sequence must contain the same set of bookings as the input (that is, you can't add or remove any bookings), and you cannot change the start or end locations of any bookings. Note that it might not be possible to find a reordered sequence with 0 relocations. Your job is simply to minimise the number as much as possible. 
+The output sequence must contain the same set of bookings as the input (that is, you can't add or remove any bookings), and you cannot change the start or end locations of any bookings. Note that it might not be possible to find a reordered sequence with 0 relocations. Your job is simply to minimise the number as much as possible.
 
-Feel free to use any language/framework/library you'd like, but make sure it's easy for us to build and run! 
-
-**When you're done, [Email us](mailto:hr@smove.sg) with either a link to your repo or your zipped solution, including both your source code and your generated output for the given test case.**
+Feel free to use any language/framework/library you'd like, but make sure it's easy for us to build and run!
 
 ### Input Format
 A JSON file consisting of an array of booking objects. Each object has an `id`, `start`, and `end`. E.g.:
@@ -44,11 +42,11 @@ A JSON file consisting of an array of booking objects. Each object has an `id`, 
 ```
 [
 	{ "id": 1, "start": 23, "end": 42 },
-	
+
 	{ "id": 2, "start": 77, "end": 45},
-	
+
 	{ "id": 3, "start": 42, "end": 77 },
-	
+
 	. . .
 ]
 ```

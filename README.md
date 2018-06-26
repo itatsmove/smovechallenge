@@ -14,14 +14,12 @@ We've prepared a few resources that you can use in any way you'd like. Some of t
 3. [Booking Data](challenges/bookingdata.md)
 4. [Booking Ordering Problem](challenges/bookingordering.md)
 
-**When you're done, [email us](mailto:hr@smove.sg) with either a link to your repo or zipped solution, including your source code, any generated output (e.g. visualisations, reports, etc.), and a short explanation of what you've done.**
+**When you're done, send us back a link to a repository with your source code, with a description of what you've done and any build instructions in the readme!**
 
 ## DevOps / Infrastructure Engineer Challenges
 
 ### Challenges
 1. [Infrastructure Case Study](challenges/infCaseStudy.md)
-
-**When you're done, [email us](mailto:hr@smove.sg) a PDF containing your solution with any relevant explanations, diagrams, code, etc.**
 
 ## Embedded Systems Engineer Challenges
 
@@ -29,12 +27,20 @@ We've prepared a few resources that you can use in any way you'd like. Some of t
 1. [Hardware Challenge](challenges/hardware.md)
 2. [Firmware Challenge](challenges/firmware.md)
 
-_Note that these challenges are not a part of our complicated hardware solution. Their purpose is to check some basic relevant skills, and we will not use your result for any other purpose._
+## iOS Mobile App Engineer Challenges
 
-**When you're done, [email us](mailto:hr@smove.sg) with either a link to your repo or zipped solution, including your source code, any generated output (e.g. visualisations, reports, etc.), and a short explanation of what you've done.**
+### Challenges
+1. [iOS Challenge](challenges/ios.md)
+
+## Android Mobile App Engineer Challenges
+
+### Challenges
+1. [Android Challenge](challenges/android.md)
 
 Cheers,
 
 smove's geeks
 
 P.S: take as little or as much time as you want.
+
+_Note that these challenges do not reflect our existing hardware and software solutions. Their purpose is to check some basic relevant skills, your submission will not be used for any other purposes!_

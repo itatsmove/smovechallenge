@@ -53,10 +53,4 @@ You may describe the proposed infrastructure using text, diagrams, a presentatio
 
 Bonus points are awarded for solutions that discuss scalability, security, performance, high availability, costs, monitoring and disaster recovery.
 
-**When you're done, [email us](mailto:hr@smove.sg) with either a link to a repo containing the solution, or a PDF of your write up.**
-
-Cheers,
-
-smove's geeks
-
-P.S: take as little or as much time as you want.
+**When you're done, send us a PDF containing your solution, with any relevant explanations, diagrams, code, etc.**

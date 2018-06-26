@@ -21,3 +21,4 @@ Your tasks are to:
   * http://www.ti.com/lit/ds/symlink/opt3001.pdf
   * https://www.nxp.com/docs/en/data-sheet/PCF8523.pdf
 
+**When you're done, send us back a link to a repository with your source code, with a description of what you've done and any build instructions in the readme!**
