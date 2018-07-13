@@ -16,4 +16,4 @@ See below for the details on the API endpoints, and don't hesitate to ask us any
 * App should be designed for different devices / screen sizes
 * Interface should be built programmatically (e.g. not using Layout Editor)
 
-**When you're done, send us back a link to a repository with your source code, with a description of what you've done and any build instructions in the readme!**
+**When you're done, send us back a link to a repository with your source code and apk, with a description of what you've done and any build instructions in the readme!**
