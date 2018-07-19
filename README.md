@@ -37,6 +37,11 @@ We've prepared a few resources that you can use in any way you'd like. Some of t
 ### Challenges
 1. [Android Challenge](challenges/android.md)
 
+## Software Testing / QA Engineer
+
+### Challenges
+1. [QA Challenge](challenges/cantina.md)
+
 Cheers,
 
 smove's geeks
