@@ -14,14 +14,15 @@ It's completely up to you _how_ you want to hunt for the bugs. Clicking around /
 
 ### Submission
 
-If you manage to find any of the bugs that somehow slipped through code review, note them down and send us a bug report for each one.
+If you manage to find any of the bugs that somehow slipped through code review, note them down and send us bug reports.
 
-It's up to you what format you want to use for the bug report, but we suggest including things like *steps to reproduce*, *expected result*, and *actual result* for each bug.
+It's up to you what format you want to use for the bug report, but we suggest including things like *steps to reproduce*, *expected result*, *actual result*, etc for each bug.
 
 **When you're done, send us:**
-* Your bug reports compiled into a single document (pdf preferred!)
+* Your bug reports in a format of your chosing, e.g. a bug tracking tool, compiled into a single document (pdf preferred!), etc.
 * A short write up of your bug-hunting methodology, including any tools / frameworks you used and how / why you used them
 * Any supporting scripts / tool configurations that you might have developed for testing
+* Additional things that would like to do in a real production/QA scenario, but there was not enough time to do it
 
 ### Bonus points
 
