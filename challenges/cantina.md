@@ -26,6 +26,12 @@ It's up to you what format you want to use for the bug report, but we suggest in
 
 ### Bonus points
 
+#### QA Infrastructure
+
+What are your thought on the ideal QA infrastructure for the given sample project? What would you advise the DevOps team to implement (stages, on-demand test instances, etc.)?
+
+#### API
+
 The site hits a few simple endpoints to get the displayed data. Here's the specification that the engineers worked off when implementing the API:
 
 ```
